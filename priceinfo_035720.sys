@@ -70,36 +70,36 @@
 
 
 
-<link rel='stylesheet' type='text/css' href='http://finance.naver.com/css/finance_header.css?20170504060951'>
+<link rel='stylesheet' type='text/css' href='http://finance.naver.com/css/finance_header.css?20170512071624'>
 
 	
 	
 	
 	
-		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/newstock.css?20170504060951">
-		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/common.css?20170504060951">
-		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/layout.css?20170504060951">
-		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/main.css?20170504060951">
-		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/newstock2.css?20170504060951">
-		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/newstock3.css?20170504060951">
-		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/world.css?20170504060951">
+		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/newstock.css?20170512071624">
+		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/common.css?20170512071624">
+		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/layout.css?20170512071624">
+		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/main.css?20170512071624">
+		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/newstock2.css?20170512071624">
+		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/newstock3.css?20170512071624">
+		<link rel="stylesheet" type="text/css" href="http://finance.naver.com/css/world.css?20170512071624">
 		
 		
 		
-			<script type="text/javascript" src="/js/jindo.min.ns.1.5.3.euckr.js?20170504060951"></script>
+			<script type="text/javascript" src="/js/jindo.min.ns.1.5.3.euckr.js?20170512071624"></script>
 			
 			
-				<script type="text/javascript" src="/js/release/common.js?20170504060951"></script>
+				<script type="text/javascript" src="/js/release/common.js?20170512071624"></script>
 			
 			
-			<script type="text/javascript" src="/js/jindoComponent/jindo.Component.1.0.3.js?20170504060951"></script>
-			<script type="text/javascript" src="/ac/nhn.autocomplete.stock.js?20170504060951"></script>
+			<script type="text/javascript" src="/js/jindoComponent/jindo.Component.1.0.3.js?20170512071624"></script>
+			<script type="text/javascript" src="/ac/nhn.autocomplete.stock.js?20170512071624"></script>
 		
 		
 	
 
 
-	<link rel="shortcut icon" href="http://www.naver.com/favicon.ico?20170504060951" type="image/x-icon">
+	<link rel="shortcut icon" href="http://www.naver.com/favicon.ico?20170512071624" type="image/x-icon">
 	
 	<script>
     (function(){
@@ -201,7 +201,7 @@ var gnb_naverme_layer_close_callback = function(){
 					var gnb_logout=encodeURIComponent(location.href);
 					var gnb_one_naver = 1;
 					</script>
-					<script type="text/javascript" src="http://static.gn.naver.net/template/gnb_quirks_euckr.nhn?20170512">
+					<script type="text/javascript" src="http://static.gn.naver.net/template/gnb_quirks_euckr.nhn?20170522">
 					</script>
 				</div>
 			</div>
@@ -256,7 +256,7 @@ var gnb_naverme_layer_close_callback = function(){
 								
 									
 									
-										<li><a href="http://finance.naver.com/news/news_read.nhn?mode=LSS2D&office_id=023&article_id=0003279418"  onClick="clickcr(this, 'rec.con1', '', '', event);">'박스피 뚫고 하이킥', 'IT·금융株를 잡아라'</a></li>
+										<li><a href="http://finance.naver.com/news/news_read.nhn?mode=LSS2D&office_id=001&article_id=0009282976"  onClick="clickcr(this, 'rec.con1', '', '', event);">코스피 2,300 지붕뚫고 새지평…4,000돌파 장밋빛 전망도</a></li>
 									
 								
 							
@@ -267,7 +267,7 @@ var gnb_naverme_layer_close_callback = function(){
 								
 									
 									
-										<li><a href="http://finance.naver.com/news/news_read.nhn?mode=LSS2D&office_id=001&article_id=0009260358"  onClick="clickcr(this, 'rec.con2', '', '', event);">증시 후끈 달아오르자 개미들 '들썩들썩'…투자주의보</a></li>
+										<li><a href="http://finance.naver.com/news/news_read.nhn?mode=LSS2D&office_id=001&article_id=0009283048"  onClick="clickcr(this, 'rec.con2', '', '', event);">코스피 2,300선 돌파…주식형펀드 환매 멈출까</a></li>
 									
 								
 							
@@ -278,7 +278,7 @@ var gnb_naverme_layer_close_callback = function(){
 								
 									
 									
-										<li><a href="http://finance.naver.com/news/news_read.nhn?mode=LSS2D&office_id=001&article_id=0009259906"  onClick="clickcr(this, 'rec.con3', '', '', event);">국내주식형펀드 '환매폭탄'…올들어 4조3천억원 이탈</a></li>
+										<li><a href="http://finance.naver.com/news/news_read.nhn?mode=LSS2D&office_id=366&article_id=0000370139"  onClick="clickcr(this, 'rec.con3', '', '', event);">올해 IPO 대어는 '지지부진'...분할 재상장주는 '훨훨'</a></li>
 									
 								
 							
@@ -388,7 +388,7 @@ var gnb_naverme_layer_close_callback = function(){
 <div id="wrap"  >
 
 
-<script language="javascript" src="/js/ellipse.js?20170504060951"></script>
+<script language="javascript" src="/js/ellipse.js?20170512071624"></script>
 <script type="text/javascript">
 function financialInfoCommentToggle() {
 	if(jindo.$Element(jindo.$$.getSingle("div.ly_moreifrs")).visible()) {
@@ -414,10 +414,10 @@ function financialInfoCommentToggle() {
 
 
 
-<script language=javascript src='http://finance.naver.com/js/recent_code.js?20170504060951'></script>
+<script language=javascript src='http://finance.naver.com/js/recent_code.js?20170512071624'></script>
 <script language=javascript>addCode('035720');</script>
-<script language="JavaScript" src="http://finance.naver.com/js/flashObject.js?20170504060951"></script>
-<script language="JavaScript" src="http://finance.naver.com/js/summary.js?20170504060951"></script>
+<script language="JavaScript" src="http://finance.naver.com/js/flashObject.js?20170512071624"></script>
+<script language="JavaScript" src="http://finance.naver.com/js/summary.js?20170512071624"></script>
 
 <script language="JavaScript">fchartStatus.setChartStatus('on');</script>
 <style>
@@ -450,18 +450,18 @@ left: -9999px;
 																		
         <dl class="blind"> 
 	        <dt>종목 시세 정보</dt> 
-	        <dd>2017년 05월 12일 16시 10분 기준 장마감</dd> 
+	        <dd>2017년 05월 22일 16시 10분 기준 장마감</dd> 
 	        <dd>종목명 카카오</dd> 
 	        <dd>종목코드 035720 코스닥</dd> 
-	        <dd>현재가 95,800 전일대비 상승 600 플러스 0.63 퍼센트</dd> 
-	        <dd>전일가 95,200</dd> 
-	        <dd>시가 95,700</dd> 
-	        <dd>고가 95,800</dd> 
-	        <dd>상한가 123,700</dd> 
-	        <dd>저가 94,500</dd> 
-	        <dd>하한가 66,700</dd> 
-	        <dd>거래량 455,349</dd> 
-	        <dd>거래대금 43,380백만</dd> 
+	        <dd>현재가 99,500 전일대비 상승 1,500 플러스 1.53 퍼센트</dd> 
+	        <dd>전일가 98,000</dd> 
+	        <dd>시가 99,000</dd> 
+	        <dd>고가 99,500</dd> 
+	        <dd>상한가 127,400</dd> 
+	        <dd>저가 97,700</dd> 
+	        <dd>하한가 68,600</dd> 
+	        <dd>거래량 584,271</dd> 
+	        <dd>거래대금 57,702백만</dd> 
         </dl>
          
         
@@ -482,7 +482,7 @@ left: -9999px;
 						
 						
 						
-							<em class="date">2017.05.12 <span>기준(장마감)</span></em>
+							<em class="date">2017.05.22 <span>기준(장마감)</span></em>
 						
 					
 					</span>
@@ -599,9 +599,9 @@ left: -9999px;
 				
                 <dl class="blind"> 
                         <dt><strong>카카오</strong></dt> 
-                        <dd>오늘의시세 95,800 포인트</dd> 
-                        <dd>600 포인트 상승</dd> 
-                        <dd>0.63% 플러스</dd> 
+                        <dd>오늘의시세 99,500 포인트</dd> 
+                        <dd>1,500 포인트 상승</dd> 
+                        <dd>1.53% 플러스</dd> 
                 </dl>
                 
                 
@@ -614,8 +614,8 @@ left: -9999px;
 							
 							
 						
-							<span class="blind">95,800</span>
-							<span class="no9">9</span><span class="no5">5</span><span class="shim">,</span><span class="no8">8</span><span class="no0">0</span><span class="no0">0</span>
+							<span class="blind">99,500</span>
+							<span class="no9">9</span><span class="no9">9</span><span class="shim">,</span><span class="no5">5</span><span class="no0">0</span><span class="no0">0</span>
 						</em>
 					</p>
 					<p class="no_exday">
@@ -630,8 +630,8 @@ left: -9999px;
 							
 							
 						
-							<span class="blind">600</span>
-							<span class="no6">6</span><span class="no0">0</span><span class="no0">0</span>
+							<span class="blind">1,500</span>
+							<span class="no1">1</span><span class="shim">,</span><span class="no5">5</span><span class="no0">0</span><span class="no0">0</span>
 						</em>
 						<span class="bar">l</span>
 						
@@ -642,8 +642,8 @@ left: -9999px;
 							
 							
 						
-							<span class="blind">0.63</span>
-							<span class="no0">0</span><span class="jum">.</span><span class="no6">6</span><span class="no3">3</span>
+							<span class="blind">1.53</span>
+							<span class="no1">1</span><span class="jum">.</span><span class="no5">5</span><span class="no3">3</span>
 							<span class="per">%</span>
 						</em>
 					</p>
@@ -655,8 +655,8 @@ left: -9999px;
 					<td class="first">
 						<span class="sptxt sp_txt2">전일</span>
 						<em>
-							<span class="blind">95,200</span>
-							<span class="no9">9</span><span class="no5">5</span><span class="shim">,</span><span class="no2">2</span><span class="no0">0</span><span class="no0">0</span>
+							<span class="blind">98,000</span>
+							<span class="no9">9</span><span class="no8">8</span><span class="shim">,</span><span class="no0">0</span><span class="no0">0</span><span class="no0">0</span>
 						</em>
 					</td>
 					<td>
@@ -674,14 +674,14 @@ left: -9999px;
 						
 						
 							
-							<span class="blind">95,800</span><span class="no9">9</span><span class="no5">5</span><span class="shim">,</span><span class="no8">8</span><span class="no0">0</span><span class="no0">0</span>
+							<span class="blind">99,500</span><span class="no9">9</span><span class="no9">9</span><span class="shim">,</span><span class="no5">5</span><span class="no0">0</span><span class="no0">0</span>
 						
 						</em>
 						<span class="sptxt sp_txt6">(상한가</span>
 						<em class="no_cha">
 							
 								
-								<span class="blind">123,700</span><span class="no1">1</span><span class="no2">2</span><span class="no3">3</span><span class="shim">,</span><span class="no7">7</span><span class="no0">0</span><span class="no0">0</span>
+								<span class="blind">127,400</span><span class="no1">1</span><span class="no2">2</span><span class="no7">7</span><span class="shim">,</span><span class="no4">4</span><span class="no0">0</span><span class="no0">0</span>
 							
 						</em>
 						<span class="sptxt sp_txt8">)</span>
@@ -689,8 +689,8 @@ left: -9999px;
 					<td>
 						<span class="sptxt sp_txt9">거래량</span>
 						<em>
-							<span class="blind">455,349</span>
-							<span class="no4">4</span><span class="no5">5</span><span class="no5">5</span><span class="shim">,</span><span class="no3">3</span><span class="no4">4</span><span class="no9">9</span>
+							<span class="blind">584,271</span>
+							<span class="no5">5</span><span class="no8">8</span><span class="no4">4</span><span class="shim">,</span><span class="no2">2</span><span class="no7">7</span><span class="no1">1</span>
 						</em>
 					</td>
 				</tr>
@@ -710,7 +710,7 @@ left: -9999px;
 						
 						
 							
-							<span class="blind">95,700</span><span class="no9">9</span><span class="no5">5</span><span class="shim">,</span><span class="no7">7</span><span class="no0">0</span><span class="no0">0</span>
+							<span class="blind">99,000</span><span class="no9">9</span><span class="no9">9</span><span class="shim">,</span><span class="no0">0</span><span class="no0">0</span><span class="no0">0</span>
 						
 						</em>
 					</td>
@@ -729,14 +729,14 @@ left: -9999px;
 						
 						
 							
-							<span class="blind">94,500</span><span class="no9">9</span><span class="no4">4</span><span class="shim">,</span><span class="no5">5</span><span class="no0">0</span><span class="no0">0</span>
+							<span class="blind">97,700</span><span class="no9">9</span><span class="no7">7</span><span class="shim">,</span><span class="no7">7</span><span class="no0">0</span><span class="no0">0</span>
 						
 						</em>
 						<span class="sptxt sp_txt7">(하한가</span>
 						<em class="no_cha">
 							
 								
-								<span class="no6">6</span><span class="no6">6</span><span class="shim">,</span><span class="no7">7</span><span class="no0">0</span><span class="no0">0</span>
+								<span class="no6">6</span><span class="no8">8</span><span class="shim">,</span><span class="no6">6</span><span class="no0">0</span><span class="no0">0</span>
 							
 						</em>
 						<span class="sptxt sp_txt8">)</span>
@@ -747,8 +747,8 @@ left: -9999px;
 						
 							
 							
-								<span class="blind">43,380</span>
-								<span class="no4">4</span><span class="no3">3</span><span class="shim">,</span><span class="no3">3</span><span class="no8">8</span><span class="no0">0</span>
+								<span class="blind">57,702</span>
+								<span class="no5">5</span><span class="no7">7</span><span class="shim">,</span><span class="no7">7</span><span class="no0">0</span><span class="no2">2</span>
 							
 						
 						</em>
@@ -775,7 +775,7 @@ left: -9999px;
 							<li class="_item_img_chart _day1095" onclick="clickcr(this,'sic.3year','','',event); changeImgChart('day1095'); return false;"><a href="#">3년</a></li> 
 						</ul> 
 						<h5 class="blind">이미지 차트</h5> 
-						<img id="img_cahrt_area" src="http://imgfinance.naver.net/chart/item/day/035720.png?sidcode=1494594796185" width="698" height="242" alt="이미지 차트"> 
+						<img id="img_cahrt_area" src="http://imgfinance.naver.net/chart/item/day/035720.png?sidcode=1495443421845" width="698" height="242" alt="이미지 차트"> 
 					</div> 
 					<!-- <div class="fs_da">
 							<div id="da_70046" name="da_70046"><iframe id="f70046" name="f70046" src="http://ad.naver.com/adshow?unit=758B" width="700" height="46" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" align="center"></iframe></div>
@@ -1353,7 +1353,7 @@ var doUpdateInformation = function() {
 	oUpdateAjax.request();
 }
 
-var dateTime = "20170512161048";
+var dateTime = "20170522161046";
 var closeDate = dateTime.substring(0,4) + "." + dateTime.substring(4,6) + "." + dateTime.substring(6,8);
 
 /**
@@ -1395,7 +1395,7 @@ function changeImgChart(chartType) {
 	eImgChartTab = jindo.$Element(jindo.$$.getSingle("._" + chartType));
 	
 	if (eImgChartTab != null && !eImgChartTab.hasClass("on")) {
-		jindo.$Element(jindo.$$.getSingle("#img_cahrt_area")).attr("src", "http://imgfinance.naver.net/chart/item/" + chartType + "/035720.png?sidcode=1494594796185");
+		jindo.$Element(jindo.$$.getSingle("#img_cahrt_area")).attr("src", "http://imgfinance.naver.net/chart/item/" + chartType + "/035720.png?sidcode=1495443421845");
 	}
 }
 
@@ -1512,17 +1512,17 @@ jindo.$Fn(function() {
 			<tr>
 				<td class="left"><strong>외국계추정합</strong></td>
 				<td>
-					<em class="f_down">18,129</em>
+					<em class="f_down">15,282</em>
 				</td>
 				<td class="left">
 					
 				<em class="f_up">
-				+19,228
+				+104,644
 				</em>
 			
 				</td>
 				<td>
-					<em class="f_up">37,357</em>
+					<em class="f_up">119,926</em>
 				</td>
 			</tr>
 			</tfoot>
@@ -1533,11 +1533,11 @@ jindo.$Fn(function() {
 						
 						
 						<td class="left">키움증권</td>
-						<td><em>84,893</em></td>
+						<td><em>118,261</em></td>
 			
 						
 						<td class="left">미래에셋대우</td>
-						<td><em>64,245</em></td>
+						<td><em>84,839</em></td>
 			
 				</tr>
 			
@@ -1545,11 +1545,11 @@ jindo.$Fn(function() {
 						
 						
 						<td class="left">미래에셋대우</td>
-						<td><em>80,793</em></td>
+						<td><em>75,087</em></td>
 			
 						
 						<td class="left">키움증권</td>
-						<td><em>57,142</em></td>
+						<td><em>81,300</em></td>
 			
 				</tr>
 			
@@ -1557,23 +1557,11 @@ jindo.$Fn(function() {
 						
 						
 						<td class="left">삼성</td>
-						<td><em>35,706</em></td>
+						<td><em>53,355</em></td>
 			
 						
-						<td class="left">삼성</td>
-						<td><em>39,736</em></td>
-			
-				</tr>
-			
-				<tr>
-						
-						
-						<td class="left">NH투자증권</td>
-						<td><em>28,873</em></td>
-			
-						
-						<td class="left"><span class="f_up">모건스탠리</span></td>
-						<td><em class="f_up">35,757</em></td>
+						<td class="left"><span class="f_up">메릴린치</span></td>
+						<td><em class="f_up">78,168</em></td>
 			
 				</tr>
 			
@@ -1581,11 +1569,23 @@ jindo.$Fn(function() {
 						
 						
 						<td class="left">한국증권</td>
-						<td><em>26,968</em></td>
+						<td><em>48,249</em></td>
 			
 						
-						<td class="left">NH투자증권</td>
-						<td><em>29,924</em></td>
+						<td class="left">삼성</td>
+						<td><em>42,237</em></td>
+			
+				</tr>
+			
+				<tr>
+						
+						
+						<td class="left">현대</td>
+						<td><em>32,214</em></td>
+			
+						
+						<td class="left"><span class="f_up">모건스탠리</span></td>
+						<td><em class="f_up">41,758</em></td>
 			
 				</tr>
 			
@@ -1611,6 +1611,132 @@ jindo.$Fn(function() {
 			<tr><td class="space"></td></tr>
 			
 			<tr>
+				<th scope="row">05/19</th>
+				<td><em>98,000</em></td>
+				<td>
+					
+				<em class="f_up up"><span>상향</span>
+				2,800
+				</em>
+			
+				</td>
+				<td>
+					
+				<em class="f_up">
+				+285,578
+				</em>
+			
+				</td>
+				<td>
+					
+				<em class="f_down">
+				-21,930
+				</em>
+			
+				</td>
+			</tr>
+			
+			<tr>
+				<th scope="row">05/18</th>
+				<td><em>95,200</em></td>
+				<td>
+					
+				<em class="sam"><span>보합</span></em>
+			
+				</td>
+				<td>
+					
+				<em class="f_up">
+				+33,615
+				</em>
+			
+				</td>
+				<td>
+					
+				<em class="f_down">
+				-1,108
+				</em>
+			
+				</td>
+			</tr>
+			
+			<tr>
+				<th scope="row">05/17</th>
+				<td><em>95,200</em></td>
+				<td>
+					
+				<em class="sam"><span>보합</span></em>
+			
+				</td>
+				<td>
+					
+				<em class="f_up">
+				+36,695
+				</em>
+			
+				</td>
+				<td>
+					
+				<em class="f_up">
+				+6,438
+				</em>
+			
+				</td>
+			</tr>
+			
+			<tr>
+				<th scope="row">05/16</th>
+				<td><em>95,200</em></td>
+				<td>
+					
+				<em class="f_up up"><span>상향</span>
+				1,400
+				</em>
+			
+				</td>
+				<td>
+					
+				<em class="f_up">
+				+100,694
+				</em>
+			
+				</td>
+				<td>
+					
+				<em class="f_up">
+				+11,566
+				</em>
+			
+				</td>
+			</tr>
+			
+			<tr>
+				<th scope="row">05/15</th>
+				<td><em>93,800</em></td>
+				<td>
+					
+				<em class="f_down down"><span>하향</span>
+				2,000
+				</em>
+			
+				</td>
+				<td>
+					
+				<em class="f_down">
+				-37,295
+				</em>
+			
+				</td>
+				<td>
+					
+				<em class="f_down">
+				-50,276
+				</em>
+			
+				</td>
+			</tr>
+			
+			<tr>
 				<th scope="row">05/12</th>
 				<td><em>95,800</em></td>
 				<td>
@@ -1631,136 +1757,6 @@ jindo.$Fn(function() {
 					
 				<em class="f_up">
 				+13,814
-				</em>
-			
-				</td>
-			</tr>
-			
-			<tr>
-				<th scope="row">05/11</th>
-				<td><em>95,200</em></td>
-				<td>
-					
-				<em class="f_up up"><span>상향</span>
-				1,200
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_up">
-				+45,165
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_down">
-				-39,340
-				</em>
-			
-				</td>
-			</tr>
-			
-			<tr>
-				<th scope="row">05/10</th>
-				<td><em>94,000</em></td>
-				<td>
-					
-				<em class="f_down down"><span>하향</span>
-				1,000
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_up">
-				+26,786
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_down">
-				-64,891
-				</em>
-			
-				</td>
-			</tr>
-			
-			<tr>
-				<th scope="row">05/08</th>
-				<td><em>95,000</em></td>
-				<td>
-					
-				<em class="f_up up"><span>상향</span>
-				1,000
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_up">
-				+79,797
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_up">
-				+65,495
-				</em>
-			
-				</td>
-			</tr>
-			
-			<tr>
-				<th scope="row">05/04</th>
-				<td><em>94,000</em></td>
-				<td>
-					
-				<em class="f_up up"><span>상향</span>
-				1,400
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_down">
-				-57,806
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_up">
-				+75,490
-				</em>
-			
-				</td>
-			</tr>
-			
-			<tr>
-				<th scope="row">05/02</th>
-				<td><em>92,600</em></td>
-				<td>
-					
-				<em class="f_up up"><span>상향</span>
-				2,200
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_up">
-				+9,665
-				</em>
-			
-				</td>
-				<td>
-					
-				<em class="f_up">
-				+58,596
 				</em>
 			
 				</td>
@@ -1789,11 +1785,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003992524&office_id=277&code=035720" onClick="clickcr(this, 'dle.1', '', '1', event);">외국인+기관 동반 순매도…코스닥 0.6%↓</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003998770&office_id=277&code=035720" onClick="clickcr(this, 'dle.1', '', '1', event);">[코스피 2300시대]코스닥은 소폭 상승&hellip;4대강 복원 테마주 </a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 16:11</em>
+					<em>05/22 16:02</em>
 				</li>
 				
 				
@@ -1802,11 +1798,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003031201&office_id=011&code=035720" onClick="clickcr(this, 'dle.1', '', '2', event);">국산 ‘AI 비서’ 전쟁 시작됐다</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003818302&office_id=014&code=035720" onClick="clickcr(this, 'dle.1', '', '2', event);">말 배우기 마친 AI비서, 이제 글자공부 나선다</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 14:54</em>
+					<em>05/22 15:58</em>
 				</li>
 				
 				
@@ -1815,11 +1811,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003939520&office_id=009&code=035720" onClick="clickcr(this, 'dle.1', '', '3', event);">카카오브레인·한국기원, AI 연구 위해 협력</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003830768&office_id=018&code=035720" onClick="clickcr(this, 'dle.1', '', '3', event);">[마감]코스닥, 640선 안착…4대강 복원株↑</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 14:11</em>
+					<em>05/22 15:49</em>
 				</li>
 				
 				
@@ -1828,11 +1824,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003939497&office_id=009&code=035720" onClick="clickcr(this, 'dle.1', '', '4', event);">제자리 찾는 카카오? 실적 개선에 목표가 상향 이어져</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003771720&office_id=015&code=035720" onClick="clickcr(this, 'dle.1', '', '4', event);">코스피 '2300시대' 열렸다&hellip;美&middot;브라질 리스크 딛고 사상 최</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 13:34</em>
+					<em>05/22 15:49</em>
 				</li>
 				
 				
@@ -1841,11 +1837,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003814226&office_id=014&code=035720" onClick="clickcr(this, 'dle.1', '', '5', event);">카카오, 한국기원과 한국판 알파고 '바둑AI' 개발 지원</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003945258&office_id=009&code=035720" onClick="clickcr(this, 'dle.1', '', '5', event);">일본 가서도 `카카오택시` 부른다고?</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 13:30</em>
+					<em>05/22 15:28</em>
 				</li>
 				
 				</ul>
@@ -1857,11 +1853,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003814183&office_id=014&code=035720" onClick="clickcr(this, 'dle.1', '', '6', event);">5월 연휴 카카오내비 최다 검색지는 이마트</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003998657&office_id=277&code=035720" onClick="clickcr(this, 'dle.1', '', '6', event);">[특징주]카카오, 상승세에 10만원 '눈앞'</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 11:34</em>
+					<em>05/22 14:27</em>
 				</li>
 				
 				
@@ -1870,11 +1866,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003992285&office_id=277&code=035720" onClick="clickcr(this, 'dle.1', '', '7', event);">[기고]카카오 이전상장을 바라보는 씁쓸함</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003945166&office_id=009&code=035720" onClick="clickcr(this, 'dle.1', '', '7', event);">카카오은행, 은행연합회 22번째 정회원 등록</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 11:08</em>
+					<em>05/22 14:03</em>
 				</li>
 				
 				
@@ -1883,11 +1879,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003871637&office_id=008&code=035720" onClick="clickcr(this, 'dle.1', '', '8', event);">"알파고 게 섯거라"…카카오브레인, 바둑 공부 나선다</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003771652&office_id=015&code=035720" onClick="clickcr(this, 'dle.1', '', '8', event);">코스피, 2300 진입 시도…외국인 사자세 강화</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 10:45</em>
+					<em>05/22 13:30</em>
 				</li>
 				
 				
@@ -1896,11 +1892,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003992219&office_id=277&code=035720" onClick="clickcr(this, 'dle.1', '', '9', event);">카카오 대선 페이지 2200만명 방문…이용자편의 높여</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003945079&office_id=009&code=035720" onClick="clickcr(this, 'dle.1', '', '9', event);">카카오뱅크, 은행연합회 정사원 가입</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 10:24</em>
+					<em>05/22 11:05</em>
 				</li>
 				
 				
@@ -1909,11 +1905,11 @@ jindo.$Fn(function() {
 					
 						
 						
-							<a href="/item/news_read.nhn?article_id=0003939303&office_id=009&code=035720" onClick="clickcr(this, 'dle.1', '', '10', event);">[Hot-Line] &quot;카카오, 광고부문 턴어라운드에 주목&quot;&hellip;목표가</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+							<a href="/item/news_read.nhn?article_id=0003818087&office_id=014&code=035720" onClick="clickcr(this, 'dle.1', '', '10', event);">스타트업 일터 워크스페이스 채널에서 찾으세요 </a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 						
 					
 					</span>
-					<em>05/12 09:19</em>
+					<em>05/22 10:56</em>
 				</li>
 				
 				
@@ -1933,46 +1929,46 @@ jindo.$Fn(function() {
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63015031" onClick="clickcr(this, 'dle.3', '', '1', event);">
-						주식생초보인대요</a><em class="ea_reply">[1]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63413935" onClick="clickcr(this, 'dle.3', '', '1', event);">
+						카카오 특보자료입니다.</a><em class="ea_reply">[1]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 22:00</em>
+					<em>05/22 17:51</em>
 				</li>
 				
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63014717" onClick="clickcr(this, 'dle.3', '', '2', event);">
-						카카오 3년 지켜본 결과</a><em class="ea_reply">[2]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63413293" onClick="clickcr(this, 'dle.3', '', '2', event);">
+						이번주는</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 21:42</em>
+					<em>05/22 17:37</em>
 				</li>
 				
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63014693" onClick="clickcr(this, 'dle.3', '', '3', event);">
-						솔직한  글 ?</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63413128" onClick="clickcr(this, 'dle.3', '', '3', event);">
+						어제 오늘 매도가 고수다</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 21:40</em>
+					<em>05/22 17:34</em>
 				</li>
 				
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63013917" onClick="clickcr(this, 'dle.3', '', '4', event);">
-						돌아 댕겨봐야  별수없더라~~</a><em class="ea_reply">[2]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63412676" onClick="clickcr(this, 'dle.3', '', '4', event);">
+						내일 카카오 10만원 돌파하는 날 맞죠?</a><em class="ea_reply">[2]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 20:54</em>
+					<em>05/22 17:24</em>
 				</li>
 				
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63013443" onClick="clickcr(this, 'dle.3', '', '5', event);">
-						2분기실적</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63412576" onClick="clickcr(this, 'dle.3', '', '5', event);">
+						카카오 택시가 일본를 휩쓸다</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 20:28</em>
+					<em>05/22 17:21</em>
 				</li>
 				
 				</ul>
@@ -1981,46 +1977,46 @@ jindo.$Fn(function() {
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63011931" onClick="clickcr(this, 'dle.3', '', '6', event);">
-						잘먹고갑니다</a><em class="ea_reply">[10]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63412187" onClick="clickcr(this, 'dle.3', '', '6', event);">
+						카카오택시들어가서 음성인식을 해보니..꽤나 잘 알아</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 19:15</em>
+					<em>05/22 17:13</em>
 				</li>
 				
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63013188" onClick="clickcr(this, 'dle.3', '', '7', event);">
-						잘먹고갑니다</a><em class="ea_reply">[1]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63411187" onClick="clickcr(this, 'dle.3', '', '7', event);">
+						막판에 120주더사길 잘했다 휴^~^</a><em class="ea_reply">[3]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 20:14</em>
+					<em>05/22 16:53</em>
 				</li>
 				
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63011063" onClick="clickcr(this, 'dle.3', '', '8', event);">
-						그래도 오늘 같은 날..  카카오는</a><em class="ea_reply">[1]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63411160" onClick="clickcr(this, 'dle.3', '', '8', event);">
+						매동</a><em class="ea_reply">[1]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 18:46</em>
+					<em>05/22 16:52</em>
 				</li>
 				
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63008759" onClick="clickcr(this, 'dle.3', '', '9', event);">
-						월20선 완전히 빠져나올때</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63410288" onClick="clickcr(this, 'dle.3', '', '9', event);">
+						여기 개미들 없다는데 진짜야?</a><em class="ea_reply">[4]</em><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 17:38</em>
+					<em>05/22 16:37</em>
 				</li>
 				
 				
 				<li>
 					<span class="txt">
-						<a href="/item/board_read.nhn?code=035720&nid=63007756" onClick="clickcr(this, 'dle.3', '', '10', event);">
-						실적 개선 종목은 네이버 카카오뿐이네</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
+						<a href="/item/board_read.nhn?code=035720&nid=63409570" onClick="clickcr(this, 'dle.3', '', '10', event);">
+						ohsj님 계신가요..</a><img src="http://imgstock.naver.net/item_renewal/ico_new.gif" alt="new" width="8" height="8">
 					</span>
-					<em>05/12 17:13</em>
+					<em>05/22 16:23</em>
 				</li>
 				
 				
@@ -2422,7 +2418,7 @@ jindo.$Fn(function() {
 											
 											
 												
-				18,498
+				18,765
 			
 											
 										</td>
@@ -2591,7 +2587,7 @@ jindo.$Fn(function() {
 											
 											
 												
-				1,844
+				1,832
 			
 											
 										</td>
@@ -2755,7 +2751,7 @@ jindo.$Fn(function() {
 											
 											
 												
-				1,216
+				1,402
 			
 											
 										</td>
@@ -2913,7 +2909,7 @@ jindo.$Fn(function() {
 											
 											
 												
-				9.97
+				9.76
 			
 											
 										</td>
@@ -3071,7 +3067,7 @@ jindo.$Fn(function() {
 											
 											
 												
-				6.58
+				7.47
 			
 											
 										</td>
@@ -3229,7 +3225,7 @@ jindo.$Fn(function() {
 											
 											
 												
-				3.06
+				3.73
 			
 											
 										</td>
@@ -3847,7 +3843,7 @@ jindo.$Fn(function() {
 											
 											
 												
-				1,574
+				1,924
 			
 											
 										</td>
@@ -4005,7 +4001,7 @@ jindo.$Fn(function() {
 											
 											
 												
-				52,024
+				52,379
 			
 											
 										</td>
@@ -4153,7 +4149,7 @@ jindo.$Fn(function() {
 									<td class=" t_line cell_strong">
 									
 										
-				161
+				154
 			
 									
 									</td>
@@ -4566,7 +4562,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>95,800</td>
+						<td>99,500</td>
 					
 				
 				
@@ -4574,7 +4570,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>848,000</td>
+						<td>847,000</td>
 					
 				
 				
@@ -4582,7 +4578,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>7,030</td>
+						<td>6,770</td>
 					
 				
 				
@@ -4590,7 +4586,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>22,600</td>
+						<td>21,800</td>
 					
 				
 				
@@ -4598,7 +4594,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>4,165</td>
+						<td>4,080</td>
 					
 				
 				
@@ -4613,19 +4609,7 @@ jindo.$Fn(function() {
 					
 						<td>
 				<em class="f_up up"><span>상향</span>
-				600
-				</em>
-			</td>
-					
-				
-				
-				
-				
-					
-					
-						<td>
-				<em class="f_down down"><span>하향</span>
-				18,000
+				1,500
 				</em>
 			</td>
 					
@@ -4637,7 +4621,7 @@ jindo.$Fn(function() {
 					
 						<td>
 				<em class="f_up up"><span>상향</span>
-				10
+				15,000
 				</em>
 			</td>
 					
@@ -4649,7 +4633,7 @@ jindo.$Fn(function() {
 					
 						<td>
 				<em class="f_down down"><span>하향</span>
-				400
+				20
 				</em>
 			</td>
 					
@@ -4661,7 +4645,19 @@ jindo.$Fn(function() {
 					
 						<td>
 				<em class="f_up up"><span>상향</span>
-				40
+				200
+				</em>
+			</td>
+					
+				
+				
+				
+				
+					
+					
+						<td>
+				<em class="f_down down"><span>하향</span>
+				5
 				</em>
 			</td>
 					
@@ -4676,18 +4672,7 @@ jindo.$Fn(function() {
 					
 						<td>
 				<em class="f_up"><span>상향</span>
-				+0.63%
-				</em>
-			</td>
-					
-				
-				
-				
-					
-					
-						<td>
-				<em class="f_down"><span>하향</span>
-				-2.08%
+				+1.53%
 				</em>
 			</td>
 					
@@ -4698,7 +4683,7 @@ jindo.$Fn(function() {
 					
 						<td>
 				<em class="f_up"><span>상향</span>
-				+0.14%
+				+1.80%
 				</em>
 			</td>
 					
@@ -4709,7 +4694,7 @@ jindo.$Fn(function() {
 					
 						<td>
 				<em class="f_down"><span>하향</span>
-				-1.74%
+				-0.29%
 				</em>
 			</td>
 					
@@ -4720,7 +4705,18 @@ jindo.$Fn(function() {
 					
 						<td>
 				<em class="f_up"><span>상향</span>
-				+0.97%
+				+0.93%
+				</em>
+			</td>
+					
+				
+				
+				
+					
+					
+						<td>
+				<em class="f_down"><span>하향</span>
+				-0.12%
 				</em>
 			</td>
 					
@@ -4734,7 +4730,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>64,934</td>
+						<td>67,442</td>
 					
 				
 				
@@ -4742,7 +4738,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>279,523</td>
+						<td>279,193</td>
 					
 				
 				
@@ -4750,7 +4746,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>2,510</td>
+						<td>2,417</td>
 					
 				
 				
@@ -4758,7 +4754,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>2,457</td>
+						<td>2,370</td>
 					
 				
 				
@@ -4766,7 +4762,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>1,968</td>
+						<td>1,928</td>
 					
 				
 				
@@ -4778,7 +4774,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>23.55</td>
+						<td>24.53</td>
 					
 				
 				
@@ -4786,7 +4782,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>61.39</td>
+						<td>61.42</td>
 					
 				
 				
@@ -4794,7 +4790,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>5.09</td>
+						<td>5.03</td>
 					
 				
 				
@@ -4802,7 +4798,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>35.60</td>
+						<td>34.48</td>
 					
 				
 				
@@ -4810,7 +4806,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>.20</td>
+						<td>.16</td>
 					
 				
 				
@@ -5130,7 +5126,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>109.61</td>
+						<td>113.84</td>
 					
 				
 				
@@ -5138,7 +5134,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>37.30</td>
+						<td>37.26</td>
 					
 				
 				
@@ -5146,7 +5142,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>58.58</td>
+						<td>56.42</td>
 					
 				
 				
@@ -5154,7 +5150,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>23.49</td>
+						<td>22.66</td>
 					
 				
 				
@@ -5162,7 +5158,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>694.17</td>
+						<td>680.00</td>
 					
 				
 				
@@ -5174,7 +5170,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>1.89</td>
+						<td>1.96</td>
 					
 				
 				
@@ -5182,7 +5178,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>6.80</td>
+						<td>6.79</td>
 					
 				
 				
@@ -5190,7 +5186,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>1.24</td>
+						<td>1.20</td>
 					
 				
 				
@@ -5198,7 +5194,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>4.11</td>
+						<td>3.97</td>
 					
 				
 				
@@ -5206,7 +5202,7 @@ jindo.$Fn(function() {
 					
 					
 					
-						<td>3.72</td>
+						<td>3.65</td>
 					
 				
 				
@@ -5267,7 +5263,19 @@ jindo.$Fn(function() {
 						
 						<tr class="strong">
 							<th scope="row">시가총액</th>
-							<td><em id="_market_sum">64,934</em>억원</td>
+							<td><em id="_market_sum">
+								
+								
+									
+									
+										
+										
+										6조
+										
+											7,442
+										
+									
+								</em>억원</td>
 						</tr>
 						
 							<tr><th scope="row">
@@ -5322,7 +5330,7 @@ jindo.$Fn(function() {
 							</tr>
 							<tr>
 								<th scope="row">외국인보유주식수(B)</th>
-								<td><em>15,962,876</em></td>
+								<td><em>16,627,249</em></td>
 							</tr>
 							<tr class="strong">
 								<th scope="row"><strong>외국인소진율(B/A)</strong><a href="javascript:togglePannel('helpPannel0');" onMouseOver="showPannel('helpPannel0');" onMouseOut="hidePannel('helpPannel0');"><img src="http://imgstock.naver.net/item_renewal/btn_help.gif" width="11" height="11" alt="외국인소진율(B/A) 상세설명"></a>
@@ -5334,7 +5342,7 @@ jindo.$Fn(function() {
 		                                 </div>
 		                            </div>
 								</th>
-								<td><em>23.55%</em></td>
+								<td><em>24.53%</em></td>
 							</tr>
 							</table>
 							</div>
@@ -5349,7 +5357,7 @@ jindo.$Fn(function() {
 							
 								
 								
-									<span class="f_up"><em>3.60</em>매수</span>
+									<span class="f_up"><em>3.67</em>매수</span>
 								
 								
 								
@@ -5358,14 +5366,14 @@ jindo.$Fn(function() {
 							<span class="bar">l</span>
 							
 								
-								<em>105,579</em>
+								<em>111,391</em>
 							
 							</td></tr>
 						
 						<tr>
 							<th scope="row">52주최고<span class="bar">l</span>최저</th>
 							<td>
-								<em>106,200</em>
+								<em>103,500</em>
 								<span class="bar">l</span>
 								<em>69,900</em>
 							</td>
@@ -5395,7 +5403,7 @@ jindo.$Fn(function() {
 									
 									
 										
-										<em id="_per">109.61</em>배
+										<em id="_per">113.84</em>배
 									
 									<span class="bar">l</span>
 									
@@ -5420,7 +5428,7 @@ jindo.$Fn(function() {
 	 							<td>
 	 								
 										
-										<em id="krx_per">109.61</em>배
+										<em id="krx_per">113.84</em>배
 									
 									<span class="bar">l</span>
 									
@@ -5443,12 +5451,12 @@ jindo.$Fn(function() {
 								<td>
 									
 										
-										<em id="_cns_per">61.00</em>배
+										<em id="_cns_per">52.00</em>배
 										
 									<span class="bar">l</span>
 									
 										
-										<em id="_cns_eps">1,574</em>원
+										<em id="_cns_eps">1,924</em>원
 									
 								</td>
 							</tr>
@@ -5466,7 +5474,7 @@ jindo.$Fn(function() {
 								<td>
 									
 										
-										<em id="_pbr">1.89</em>배
+										<em id="_pbr">1.96</em>배
 									
 									<span class="bar">l</span>
 									
@@ -5502,7 +5510,7 @@ jindo.$Fn(function() {
 								<td>
 									
 										
-										<em>44.79</em>배
+										<em>43.61</em>배
 										
 								</td>
 							</tr>
@@ -5511,8 +5519,8 @@ jindo.$Fn(function() {
 								
 									
 									
-				<td class="f_down"><em>
-				-1.52%
+				<td class="f_up"><em>
+				+1.67%
 				</em></td>
 			
 								
@@ -5542,29 +5550,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					4,243
+					2,627
 				
 				</td>
 				<td>
 				
 					
-					96,800
-				
-				</td>
-				<td class="td_r"></td>
-				</tr>
-			
-				<tr class="f_down">
-				<td>
-				
-					
-					3,253
-				
-				</td>
-				<td>
-				
-					
-					96,700
+					100,400
 				
 				</td>
 				<td class="td_r"></td>
@@ -5574,29 +5566,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					1,140
+					3,087
 				
 				</td>
 				<td>
 				
 					
-					96,600
-				
-				</td>
-				<td class="td_r"></td>
-				</tr>
-			
-				<tr class="f_down">
-				<td>
-				
-					
-					12,051
-				
-				</td>
-				<td>
-				
-					
-					96,500
+					100,300
 				
 				</td>
 				<td class="td_r"></td>
@@ -5606,29 +5582,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					7,242
+					2,934
 				
 				</td>
 				<td>
 				
 					
-					96,400
-				
-				</td>
-				<td class="td_r"></td>
-				</tr>
-			
-				<tr class="f_down">
-				<td>
-				
-					
-					3,638
-				
-				</td>
-				<td>
-				
-					
-					96,300
+					100,200
 				
 				</td>
 				<td class="td_r"></td>
@@ -5638,29 +5598,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					4,634
+					1,949
 				
 				</td>
 				<td>
 				
 					
-					96,200
-				
-				</td>
-				<td class="td_r"></td>
-				</tr>
-			
-				<tr class="f_down">
-				<td>
-				
-					
-					6,275
-				
-				</td>
-				<td>
-				
-					
-					96,100
+					100,100
 				
 				</td>
 				<td class="td_r"></td>
@@ -5670,13 +5614,77 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					14,153
+					23,765
 				
 				</td>
 				<td>
 				
 					
-					96,000
+					100,000
+				
+				</td>
+				<td class="td_r"></td>
+				</tr>
+			
+				<tr class="f_down">
+				<td>
+				
+					
+					10,566
+				
+				</td>
+				<td>
+				
+					
+					99,900
+				
+				</td>
+				<td class="td_r"></td>
+				</tr>
+			
+				<tr class="f_down">
+				<td>
+				
+					
+					12,370
+				
+				</td>
+				<td>
+				
+					
+					99,800
+				
+				</td>
+				<td class="td_r"></td>
+				</tr>
+			
+				<tr class="f_down">
+				<td>
+				
+					
+					7,496
+				
+				</td>
+				<td>
+				
+					
+					99,700
+				
+				</td>
+				<td class="td_r"></td>
+				</tr>
+			
+				<tr class="f_down">
+				<td>
+				
+					
+					4,947
+				
+				</td>
+				<td>
+				
+					
+					99,600
 				
 				</td>
 				<td class="td_r"></td>
@@ -5686,13 +5694,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					7,906
+					15,573
 				
 				</td>
 				<td>
 				
 					
-					95,900
+					99,500
 				
 				</td>
 				<td class="td_r"></td>
@@ -5703,13 +5711,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					95,800
+					99,400
 				
 				</td>
 				<td class="td_r">
 				
 					
-					1,751
+					1,082
 				
 				</td>
 			</tr>
@@ -5719,13 +5727,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					95,700
+					99,300
 				
 				</td>
 				<td class="td_r">
 				
 					
-					1,839
+					2,926
 				
 				</td>
 				</tr>
@@ -5735,13 +5743,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					95,600
+					99,200
 				
 				</td>
 				<td class="td_r">
 				
 					
-					3,491
+					2,649
 				
 				</td>
 				</tr>
@@ -5751,13 +5759,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					95,500
+					99,100
 				
 				</td>
 				<td class="td_r">
 				
 					
-					2,836
+					2,442
 				
 				</td>
 				</tr>
@@ -5767,13 +5775,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					95,400
+					99,000
 				
 				</td>
 				<td class="td_r">
 				
 					
-					3,606
+					7,712
 				
 				</td>
 				</tr>
@@ -5783,13 +5791,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					95,300
+					98,900
 				
 				</td>
 				<td class="td_r">
 				
 					
-					2,950
+					3,265
 				
 				</td>
 				</tr>
@@ -5799,13 +5807,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					95,200
+					98,800
 				
 				</td>
 				<td class="td_r">
 				
 					
-					2,936
+					1,621
 				
 				</td>
 				</tr>
@@ -5815,13 +5823,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					95,100
+					98,700
 				
 				</td>
 				<td class="td_r">
 				
 					
-					5,147
+					3,753
 				
 				</td>
 				</tr>
@@ -5831,13 +5839,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					95,000
+					98,600
 				
 				</td>
 				<td class="td_r">
 				
 					
-					8,462
+					3,379
 				
 				</td>
 				</tr>
@@ -5847,13 +5855,13 @@ jindo.$Fn(function() {
 				<td>
 				
 					
-					94,900
+					98,500
 				
 				</td>
 				<td class="td_r">
 				
 					
-					4,778
+					4,917
 				
 				</td>
 				</tr>
@@ -5863,14 +5871,14 @@ jindo.$Fn(function() {
 				<td class="f_down">
 					
 						
-						64,535
+						85,314
 					
 				</td>
 				<td>잔량합계</td>
 				<td class="f_up">
 					
 						
-						37,796
+						33,746
 					
 				</td>
 			</tr>
@@ -5887,7 +5895,7 @@ jindo.$Fn(function() {
 
 
 
-<script language=javascript src="/js/item_main_right_area.js?20170504060951"></script>
+<script language=javascript src="/js/item_main_right_area.js?20170512071624"></script>
 		
 		
 		<div class="aside_section cop_list">
@@ -6042,11 +6050,11 @@ jindo.$Fn(function() {
 			
 			<tr>
 				<th scope="row" class="no1"><a href="/item/main.nhn?code=251270" target=_top onClick="clickcr(this, 'pss.2', '', '1', event);">넷마블게임즈</a></th>
-				<td>162,000</td>
+				<td>140,000</td>
 				<td>
 					
 				<em class="f_down down"><span>하향</span>
-				3,000
+				3,500
 				</em>
 			
 				</td>
@@ -6054,25 +6062,12 @@ jindo.$Fn(function() {
 		
 			
 			<tr>
-				<th scope="row" class="no2"><a href="/item/main.nhn?code=035420" target=_top onClick="clickcr(this, 'pss.2', '', '2', event);">NAVER</a></th>
-				<td>848,000</td>
-				<td>
-					
-				<em class="f_down down"><span>하향</span>
-				18,000
-				</em>
-			
-				</td>
-			</tr>
-		
-			
-			<tr>
-				<th scope="row" class="no3"><a href="/item/main.nhn?code=066570" target=_top onClick="clickcr(this, 'pss.2', '', '3', event);">LG전자</a></th>
-				<td>81,200</td>
+				<th scope="row" class="no2"><a href="/item/main.nhn?code=000660" target=_top onClick="clickcr(this, 'pss.2', '', '2', event);">SK하이닉스</a></th>
+				<td>56,000</td>
 				<td>
 					
 				<em class="f_up up"><span>상향</span>
-				1,400
+				1,800
 				</em>
 			
 				</td>
@@ -6080,12 +6075,12 @@ jindo.$Fn(function() {
 		
 			
 			<tr>
-				<th scope="row" class="no4"><a href="/item/main.nhn?code=036570" target=_top onClick="clickcr(this, 'pss.2', '', '4', event);">엔씨소프트</a></th>
-				<td>351,000</td>
+				<th scope="row" class="no3"><a href="/item/main.nhn?code=005930" target=_top onClick="clickcr(this, 'pss.2', '', '3', event);">삼성전자</a></th>
+				<td>2,255,000</td>
 				<td>
 					
-				<em class="f_down down"><span>하향</span>
-				17,000
+				<em class="f_up up"><span>상향</span>
+				19,000
 				</em>
 			
 				</td>
@@ -6093,12 +6088,25 @@ jindo.$Fn(function() {
 		
 			
 			<tr>
-				<th scope="row" class="no5"><a href="/item/main.nhn?code=011700" target=_top onClick="clickcr(this, 'pss.2', '', '5', event);">한신기계</a></th>
-				<td>4,185</td>
+				<th scope="row" class="no4"><a href="/item/main.nhn?code=035420" target=_top onClick="clickcr(this, 'pss.2', '', '4', event);">NAVER</a></th>
+				<td>847,000</td>
 				<td>
 					
-				<em class="f_up up_arrow"><span>상한가</span>
-				965
+				<em class="f_up up"><span>상향</span>
+				15,000
+				</em>
+			
+				</td>
+			</tr>
+		
+			
+			<tr>
+				<th scope="row" class="no5"><a href="/item/main.nhn?code=005490" target=_top onClick="clickcr(this, 'pss.2', '', '5', event);">POSCO</a></th>
+				<td>285,000</td>
+				<td>
+					
+				<em class="f_up up"><span>상향</span>
+				13,500
 				</em>
 			
 				</td>
@@ -6108,12 +6116,12 @@ jindo.$Fn(function() {
 				<tr><td colspan="3" class="line"></td></tr>
 			
 			<tr>
-				<th scope="row" class="no6"><a href="/item/main.nhn?code=008700" target=_top onClick="clickcr(this, 'pss.2', '', '6', event);">아남전자</a></th>
-				<td>3,700</td>
+				<th scope="row" class="no6"><a href="/item/main.nhn?code=000270" target=_top onClick="clickcr(this, 'pss.2', '', '6', event);">기아차</a></th>
+				<td>39,050</td>
 				<td>
 					
 				<em class="f_up up"><span>상향</span>
-				520
+				250
 				</em>
 			
 				</td>
@@ -6121,12 +6129,12 @@ jindo.$Fn(function() {
 		
 			
 			<tr>
-				<th scope="row" class="no7"><a href="/item/main.nhn?code=002780" target=_top onClick="clickcr(this, 'pss.2', '', '7', event);">진흥기업</a></th>
-				<td>2,565</td>
+				<th scope="row" class="no7"><a href="/item/main.nhn?code=066570" target=_top onClick="clickcr(this, 'pss.2', '', '7', event);">LG전자</a></th>
+				<td>81,600</td>
 				<td>
 					
-				<em class="f_up up_arrow"><span>상한가</span>
-				590
+				<em class="f_up up"><span>상향</span>
+				200
 				</em>
 			
 				</td>
@@ -6134,25 +6142,12 @@ jindo.$Fn(function() {
 		
 			
 			<tr>
-				<th scope="row" class="no8"><a href="/item/main.nhn?code=009540" target=_top onClick="clickcr(this, 'pss.2', '', '8', event);">현대중공업</a></th>
-				<td>169,000</td>
-				<td>
-					
-				<em class="f_down down"><span>하향</span>
-				6,500
-				</em>
-			
-				</td>
-			</tr>
-		
-			
-			<tr>
-				<th scope="row" class="no9"><a href="/item/main.nhn?code=090430" target=_top onClick="clickcr(this, 'pss.2', '', '9', event);">아모레퍼시픽</a></th>
-				<td>345,000</td>
+				<th scope="row" class="no8"><a href="/item/main.nhn?code=001470" target=_top onClick="clickcr(this, 'pss.2', '', '8', event);">삼부토건</a></th>
+				<td>16,600</td>
 				<td>
 					
 				<em class="f_down down"><span>하향</span>
-				16,000
+				200
 				</em>
 			
 				</td>
@@ -6160,12 +6155,25 @@ jindo.$Fn(function() {
 		
 			
 			<tr>
-				<th scope="row" class="no10"><a href="/item/main.nhn?code=003060" target=_top onClick="clickcr(this, 'pss.2', '', '10', event);">에이프로젠제..</a></th>
-				<td>3,900</td>
+				<th scope="row" class="no9"><a href="/item/main.nhn?code=009830" target=_top onClick="clickcr(this, 'pss.2', '', '9', event);">한화케미칼</a></th>
+				<td>29,500</td>
 				<td>
 					
-				<em class="f_down down"><span>하향</span>
-				30
+				<em class="f_up up"><span>상향</span>
+				850
+				</em>
+			
+				</td>
+			</tr>
+		
+			
+			<tr>
+				<th scope="row" class="no10"><a href="/item/main.nhn?code=008970" target=_top onClick="clickcr(this, 'pss.2', '', '10', event);">동양철관</a></th>
+				<td>1,570</td>
+				<td>
+					
+				<em class="f_up up"><span>상향</span>
+				170
 				</em>
 			
 				</td>
@@ -6187,10 +6195,43 @@ jindo.$Fn(function() {
 		
 			
 			<tr>
-				<th scope="row" class="no1"><a href="/item/main.nhn?code=053800" target=_top onClick="clickcr(this, 'pss.4', '', '1', event);">안랩</a></th>
-				<td>56,200</td>
+				<th scope="row" class="no1"><a href="/item/main.nhn?code=035720" target=_top onClick="clickcr(this, 'pss.4', '', '1', event);">카카오</a></th>
+				<td>99,500</td>
 				<td>
-				<em class="f_down down"><span>하향</span>
+				<em class="f_up up"><span>상향</span>
+				1,500
+				</em>
+			</td>
+			</tr>
+		
+			
+			<tr>
+				<th scope="row" class="no2"><a href="/item/main.nhn?code=087220" target=_top onClick="clickcr(this, 'pss.4', '', '2', event);">스틸플라워</a></th>
+				<td>557</td>
+				<td>
+				<em class="f_up up_arrow"><span>상한가</span>
+				128
+				</em>
+			</td>
+			</tr>
+		
+			
+			<tr>
+				<th scope="row" class="no3"><a href="/item/main.nhn?code=043910" target=_top onClick="clickcr(this, 'pss.4', '', '3', event);">자연과환경</a></th>
+				<td>3,170</td>
+				<td>
+				<em class="f_up up_arrow"><span>상한가</span>
+				730
+				</em>
+			</td>
+			</tr>
+		
+			
+			<tr>
+				<th scope="row" class="no4"><a href="/item/main.nhn?code=001840" target=_top onClick="clickcr(this, 'pss.4', '', '4', event);">이화공영</a></th>
+				<td>7,870</td>
+				<td>
+				<em class="f_up up"><span>상향</span>
 				1,400
 				</em>
 			</td>
@@ -6198,44 +6239,11 @@ jindo.$Fn(function() {
 		
 			
 			<tr>
-				<th scope="row" class="no2"><a href="/item/main.nhn?code=090710" target=_top onClick="clickcr(this, 'pss.4', '', '2', event);">디에스티로봇</a></th>
-				<td>3,365</td>
-				<td>
-				<em class="f_up up"><span>상향</span>
-				660
-				</em>
-			</td>
-			</tr>
-		
-			
-			<tr>
-				<th scope="row" class="no3"><a href="/item/main.nhn?code=900270" target=_top onClick="clickcr(this, 'pss.4', '', '3', event);">헝셩그룹</a></th>
-				<td>3,195</td>
-				<td>
-				<em class="f_up up"><span>상향</span>
-				60
-				</em>
-			</td>
-			</tr>
-		
-			
-			<tr>
-				<th scope="row" class="no4"><a href="/item/main.nhn?code=193250" target=_top onClick="clickcr(this, 'pss.4', '', '4', event);">와이제이엠게..</a></th>
-				<td>4,465</td>
+				<th scope="row" class="no5"><a href="/item/main.nhn?code=068270" target=_top onClick="clickcr(this, 'pss.4', '', '5', event);">셀트리온</a></th>
+				<td>93,900</td>
 				<td>
 				<em class="f_down down"><span>하향</span>
-				270
-				</em>
-			</td>
-			</tr>
-		
-			
-			<tr>
-				<th scope="row" class="no5"><a href="/item/main.nhn?code=083640" target=_top onClick="clickcr(this, 'pss.4', '', '5', event);">인콘</a></th>
-				<td>14,200</td>
-				<td>
-				<em class="f_down down"><span>하향</span>
-				2,450
+				900
 				</em>
 			</td>
 			</tr>
@@ -6244,55 +6252,55 @@ jindo.$Fn(function() {
 				<tr><td colspan="3" class="line"></td></tr>
 			
 			<tr>
-				<th scope="row" class="no6"><a href="/item/main.nhn?code=063080" target=_top onClick="clickcr(this, 'pss.4', '', '6', event);">게임빌</a></th>
-				<td>58,800</td>
-				<td>
-				<em class="f_down down"><span>하향</span>
-				3,600
-				</em>
-			</td>
-			</tr>
-		
-			
-			<tr>
-				<th scope="row" class="no7"><a href="/item/main.nhn?code=035890" target=_top onClick="clickcr(this, 'pss.4', '', '7', event);">서희건설</a></th>
-				<td>1,440</td>
+				<th scope="row" class="no6"><a href="/item/main.nhn?code=104040" target=_top onClick="clickcr(this, 'pss.4', '', '6', event);">대성파인텍</a></th>
+				<td>2,775</td>
 				<td>
 				<em class="f_up up"><span>상향</span>
-				120
+				175
 				</em>
 			</td>
 			</tr>
 		
 			
 			<tr>
-				<th scope="row" class="no8"><a href="/item/main.nhn?code=035720" target=_top onClick="clickcr(this, 'pss.4', '', '8', event);">카카오</a></th>
-				<td>95,800</td>
+				<th scope="row" class="no7"><a href="/item/main.nhn?code=200230" target=_top onClick="clickcr(this, 'pss.4', '', '7', event);">텔콘</a></th>
+				<td>6,030</td>
+				<td>
+				<em class="f_down down"><span>하향</span>
+				300
+				</em>
+			</td>
+			</tr>
+		
+			
+			<tr>
+				<th scope="row" class="no8"><a href="/item/main.nhn?code=096040" target=_top onClick="clickcr(this, 'pss.4', '', '8', event);">이트론</a></th>
+				<td>398</td>
 				<td>
 				<em class="f_up up"><span>상향</span>
-				600
+				36
 				</em>
 			</td>
 			</tr>
 		
 			
 			<tr>
-				<th scope="row" class="no9"><a href="/item/main.nhn?code=006910" target=_top onClick="clickcr(this, 'pss.4', '', '9', event);">보성파워텍</a></th>
-				<td>2,980</td>
+				<th scope="row" class="no9"><a href="/item/main.nhn?code=090710" target=_top onClick="clickcr(this, 'pss.4', '', '9', event);">디에스티로봇</a></th>
+				<td>3,320</td>
 				<td>
-				<em class="f_down down"><span>하향</span>
-				105
+				<em class="f_up up"><span>상향</span>
+				45
 				</em>
 			</td>
 			</tr>
 		
 			
 			<tr>
-				<th scope="row" class="no10"><a href="/item/main.nhn?code=122800" target=_top onClick="clickcr(this, 'pss.4', '', '10', event);">썬텍</a></th>
-				<td>2,925</td>
+				<th scope="row" class="no10"><a href="/item/main.nhn?code=034230" target=_top onClick="clickcr(this, 'pss.4', '', '10', event);">파라다이스</a></th>
+				<td>16,450</td>
 				<td>
 				<em class="f_down down"><span>하향</span>
-				70
+				400
 				</em>
 			</td>
 			</tr>

@@ -1,8 +1,10 @@
 ﻿  main.cpp
+main.cpp(10): warning C4101: 'test1' :참조되지 않은 지역 변수입니다.
+main.cpp(9): warning C4101: 'test' :참조되지 않은 지역 변수입니다.
   코드를 생성하고 있습니다.
-  9 of 9 functions (100.0%) were compiled, the rest were copied from previous compilation.
+  1 of 141 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
-  Hanium_FDP.vcxproj -> C:\Users\Hong\Desktop\Hanium_FDP\Release\Hanium_FDP.exe
-  Hanium_FDP.vcxproj -> C:\Users\Hong\Desktop\Hanium_FDP\Release\Hanium_FDP.pdb (Full PDB)
+  Hanium_FDP.vcxproj -> C:\Users\USER\Desktop\test\Release\Hanium_FDP.exe
+  Hanium_FDP.vcxproj -> C:\Users\USER\Desktop\test\Release\Hanium_FDP.pdb (Full PDB)

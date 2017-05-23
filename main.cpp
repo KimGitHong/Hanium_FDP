@@ -1,13 +1,23 @@
 #include "header.h"
 #include <price_info.h>
 #include <mysql.h>
-
-
+#include <fsinfo.h>
+#pragma comment(lib,"libFSiInfo.lib")
+char arr[][36] = { "매출총이익", "매출액", "영업이익", "당기순이익", "자기자본","자산총계", "총자산", "유동자산", "유형자산", "매출채권", "재고자산", "유동부채", "고정부채", "총부채", "금융비용", "이자비용" };
 int main(int argc, char *argv[])
 {
 	Crp_Info test;
 	MARKET_PRICE test1;
-	
+	fsinfo fsinfo = fsinfo::getInstance();
+	fsinfo.setAuth("3bd198be75bb708c098fc74fb63f1e21918b6257");
+	fsinfo.clear();
+	fsinfo.init("035720", "15-17");
+	for (int i = 0; i < 16; i++) {
+	fsinfo[15].load(arr[i]);
+	printf("%s : %s\n", arr[i], fsinfo[15][arr[i]].c_str());
+
+	}
+	/*
 	Get_Price_Info("035720", &test1);
 
 	int Crp_cd = 35720;
@@ -21,7 +31,7 @@ int main(int argc, char *argv[])
 
 	DB_Connection((void*)&mysql, "192.168.0.15", "root", "dblab2108", "db1", 3306);
 	Create_Table_Crp_Info((void*)&mysql);
-	Insert_Crp_Info((void*)&mysql, test);
+	Insert_Crp_Info((void*)&mysql, test);*/
 
 	PGNSocketNetwork *network = new PGNSocketNetwork("127.0.0.1", 50000, PGN_OPTION_TCP);
 	network->addCommand("exit", -1);
